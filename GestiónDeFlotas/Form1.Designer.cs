@@ -30,8 +30,8 @@
         {
             MenuStrip menuStripPrincipal;
             menuVehiculos = new ToolStripMenuItem();
-            menuConductores = new ToolStripMenuItem();
             menuGestionarVehiculos = new ToolStripMenuItem();
+            menuConductores = new ToolStripMenuItem();
             menuGestionarConductores = new ToolStripMenuItem();
             menuViajes = new ToolStripMenuItem();
             menuProgramarViajes = new ToolStripMenuItem();
@@ -59,6 +59,14 @@
             menuVehiculos.Name = "menuVehiculos";
             menuVehiculos.Size = new Size(69, 20);
             menuVehiculos.Text = "Vehículos";
+            menuVehiculos.Click += menuVehiculos_Click;
+            // 
+            // menuGestionarVehiculos
+            // 
+            menuGestionarVehiculos.Name = "menuGestionarVehiculos";
+            menuGestionarVehiculos.Size = new Size(177, 22);
+            menuGestionarVehiculos.Text = "Gestionar Vehículos";
+            menuGestionarVehiculos.Click += menuGestionarVehiculos_Click;
             // 
             // menuConductores
             // 
@@ -67,17 +75,12 @@
             menuConductores.Size = new Size(87, 20);
             menuConductores.Text = "Conductores";
             // 
-            // menuGestionarVehiculos
-            // 
-            menuGestionarVehiculos.Name = "menuGestionarVehiculos";
-            menuGestionarVehiculos.Size = new Size(180, 22);
-            menuGestionarVehiculos.Text = "Gestionar Vehículos";
-            // 
             // menuGestionarConductores
             // 
             menuGestionarConductores.Name = "menuGestionarConductores";
             menuGestionarConductores.Size = new Size(195, 22);
             menuGestionarConductores.Text = "Gestionar Conductores";
+            menuGestionarConductores.Click += menuGestionarConductores_Click;
             // 
             // menuViajes
             // 
@@ -89,8 +92,9 @@
             // menuProgramarViajes
             // 
             menuProgramarViajes.Name = "menuProgramarViajes";
-            menuProgramarViajes.Size = new Size(180, 22);
+            menuProgramarViajes.Size = new Size(163, 22);
             menuProgramarViajes.Text = "Programar Viajes";
+            menuProgramarViajes.Click += menuProgramarViajes_Click;
             // 
             // menuMantenimiento
             // 
@@ -104,6 +108,7 @@
             menuGestionarMantenimiento.Name = "menuGestionarMantenimiento";
             menuGestionarMantenimiento.Size = new Size(209, 22);
             menuGestionarMantenimiento.Text = "Gestionar Mantenimiento";
+            menuGestionarMantenimiento.Click += menuGestionarMantenimiento_Click;
             // 
             // menuReportes
             // 
@@ -117,12 +122,14 @@
             menuReporteUso.Name = "menuReporteUso";
             menuReporteUso.Size = new Size(219, 22);
             menuReporteUso.Text = "Reporte de Uso";
+            menuReporteUso.Click += menuReporteUso_Click;
             // 
             // menuHistorialMantenimiento
             // 
             menuHistorialMantenimiento.Name = "menuHistorialMantenimiento";
             menuHistorialMantenimiento.Size = new Size(219, 22);
             menuHistorialMantenimiento.Text = "Historial de Mantenimiento";
+            menuHistorialMantenimiento.Click += menuHistorialMantenimiento_Click;
             // 
             // Form1
             // 
