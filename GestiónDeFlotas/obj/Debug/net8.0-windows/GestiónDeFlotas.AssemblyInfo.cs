@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GestiónDeFlotas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8da9b8663c3995a78e0d821854793f3988a55818")]
 [assembly: System.Reflection.AssemblyProductAttribute("GestiónDeFlotas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GestiónDeFlotas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
