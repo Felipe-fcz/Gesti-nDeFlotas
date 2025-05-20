@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Hsuaz\\source\\repos\\Gesti\u00F3nDeFlotas\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{07AE28D2-656B-4EC4-BF78-C85BE513C7B9}|Gesti\u00F3nDeFlotas\\Gesti\u00F3nDeFlotas.csproj|c:\\users\\hsuaz\\source\\repos\\gesti\u00F3ndeflotas\\gesti\u00F3ndeflotas\\models\\mantenimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07AE28D2-656B-4EC4-BF78-C85BE513C7B9}|Gesti\u00F3nDeFlotas\\Gesti\u00F3nDeFlotas.csproj|solutionrelative:gesti\u00F3ndeflotas\\models\\mantenimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{07AE28D2-656B-4EC4-BF78-C85BE513C7B9}|Gesti\u00F3nDeFlotas\\Gesti\u00F3nDeFlotas.csproj|c:\\users\\hsuaz\\source\\repos\\gesti\u00F3ndeflotas\\gesti\u00F3ndeflotas\\models\\viaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{07AE28D2-656B-4EC4-BF78-C85BE513C7B9}|Gesti\u00F3nDeFlotas\\Gesti\u00F3nDeFlotas.csproj|solutionrelative:gesti\u00F3ndeflotas\\models\\viaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -31,19 +35,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Mantenimiento.cs",
+              "DocumentMoniker": "C:\\Users\\Hsuaz\\source\\repos\\Gesti\u00F3nDeFlotas\\Gesti\u00F3nDeFlotas\\Models\\Mantenimiento.cs",
+              "RelativeDocumentMoniker": "Gesti\u00F3nDeFlotas\\Models\\Mantenimiento.cs",
+              "ToolTip": "C:\\Users\\Hsuaz\\source\\repos\\Gesti\u00F3nDeFlotas\\Gesti\u00F3nDeFlotas\\Models\\Mantenimiento.cs",
+              "RelativeToolTip": "Gesti\u00F3nDeFlotas\\Models\\Mantenimiento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T05:47:23.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Viaje.cs",
               "DocumentMoniker": "C:\\Users\\Hsuaz\\source\\repos\\Gesti\u00F3nDeFlotas\\Gesti\u00F3nDeFlotas\\Models\\Viaje.cs",
               "RelativeDocumentMoniker": "Gesti\u00F3nDeFlotas\\Models\\Viaje.cs",
               "ToolTip": "C:\\Users\\Hsuaz\\source\\repos\\Gesti\u00F3nDeFlotas\\Gesti\u00F3nDeFlotas\\Models\\Viaje.cs",
               "RelativeToolTip": "Gesti\u00F3nDeFlotas\\Models\\Viaje.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-20T05:45:48.581Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Conductor.cs",
               "DocumentMoniker": "C:\\Users\\Hsuaz\\source\\repos\\Gesti\u00F3nDeFlotas\\Gesti\u00F3nDeFlotas\\Models\\Conductor.cs",
               "RelativeDocumentMoniker": "Gesti\u00F3nDeFlotas\\Models\\Conductor.cs",
@@ -51,12 +68,11 @@
               "RelativeToolTip": "Gesti\u00F3nDeFlotas\\Models\\Conductor.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T05:44:03.62Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-20T05:44:03.62Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Vehiculo.cs",
               "DocumentMoniker": "C:\\Users\\Hsuaz\\source\\repos\\Gesti\u00F3nDeFlotas\\Gesti\u00F3nDeFlotas\\Models\\Vehiculo.cs",
               "RelativeDocumentMoniker": "Gesti\u00F3nDeFlotas\\Models\\Vehiculo.cs",
