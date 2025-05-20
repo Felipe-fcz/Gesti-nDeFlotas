@@ -1,0 +1,7 @@
+C:\Users\Hsuaz\source\repos\GestiónDeFlotas\GestiónDeFlotas\obj\Debug\net8.0-windows\GestiónDeFlotas.Form1.resources
+C:\Users\Hsuaz\source\repos\GestiónDeFlotas\GestiónDeFlotas\obj\Debug\net8.0-windows\GestiónDeFlotas.FormularioVehiculos.resources
+C:\Users\Hsuaz\source\repos\GestiónDeFlotas\GestiónDeFlotas\obj\Debug\net8.0-windows\GestiónDeFlotas.csproj.GenerateResource.cache
+C:\Users\Hsuaz\source\repos\GestiónDeFlotas\GestiónDeFlotas\obj\Debug\net8.0-windows\GestiónDeFlotas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hsuaz\source\repos\GestiónDeFlotas\GestiónDeFlotas\obj\Debug\net8.0-windows\GestiónDeFlotas.AssemblyInfoInputs.cache
+C:\Users\Hsuaz\source\repos\GestiónDeFlotas\GestiónDeFlotas\obj\Debug\net8.0-windows\GestiónDeFlotas.AssemblyInfo.cs
+C:\Users\Hsuaz\source\repos\GestiónDeFlotas\GestiónDeFlotas\obj\Debug\net8.0-windows\GestiónDeFlotas.csproj.CoreCompileInputs.cache
